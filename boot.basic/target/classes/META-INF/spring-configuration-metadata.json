@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "windfree",
+      "type": "io.tuna.sample.props.SampleProperty",
+      "sourceType": "io.tuna.sample.props.SampleProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "windfree.age",
+      "type": "java.lang.Integer",
+      "sourceType": "io.tuna.sample.props.SampleProperty",
+      "defaultValue": 0
+    },
+    {
+      "name": "windfree.name",
+      "type": "java.lang.String",
+      "sourceType": "io.tuna.sample.props.SampleProperty"
+    }
+  ],
+  "hints": []
+}
