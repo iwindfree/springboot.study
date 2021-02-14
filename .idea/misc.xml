@@ -10,10 +10,24 @@
         <option value="$PROJECT_DIR$/boot.basic/pom.xml" />
         <option value="$PROJECT_DIR$/boot.mvc/pom.xml" />
         <option value="$PROJECT_DIR$/boot.mvc.thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.exception/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.hateoas/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.cors/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.cors.client/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.db.h2/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.security/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.custom.security/pom.xml" />
+        <option value="$PROJECT_DIR$/boot.rest/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/boot.exception/untitled/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

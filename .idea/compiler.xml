@@ -6,22 +6,54 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="boot.mvc" />
+        <module name="boot.hateoas" />
         <module name="boot.basic" />
+        <module name="untitled" />
+        <module name="boot.security" />
+        <module name="boot.custom.security" />
+        <module name="boot.db.inmemory" />
+        <module name="boot.rest" />
         <module name="boot.mvc.thymeleaf" />
+        <module name="boot.db.h2" />
+        <module name="boot.mvc" />
+        <module name="boot.jpa" />
+        <module name="boot.cors" />
+        <module name="boot.cors.client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="boot.basic" target="11" />
+      <module name="boot.cors" target="11" />
+      <module name="boot.cors.client" target="11" />
+      <module name="boot.custom.security" target="11" />
+      <module name="boot.db.h2" target="11" />
+      <module name="boot.db.inmemory" target="11" />
+      <module name="boot.exception" target="11" />
+      <module name="boot.hateoas" target="11" />
+      <module name="boot.jpa" target="11" />
       <module name="boot.mvc" target="11" />
       <module name="boot.mvc.thymeleaf" target="11" />
+      <module name="boot.rest" target="11" />
+      <module name="boot.security" target="11" />
+      <module name="untitled" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="boot.basic" options="-parameters" />
+      <module name="boot.cors" options="-parameters" />
+      <module name="boot.cors.client" options="-parameters" />
+      <module name="boot.custom.security" options="-parameters" />
+      <module name="boot.db.h2" options="-parameters" />
+      <module name="boot.db.inmemory" options="-parameters" />
+      <module name="boot.exception" options="-parameters" />
+      <module name="boot.hateoas" options="-parameters" />
+      <module name="boot.jpa" options="-parameters" />
       <module name="boot.mvc" options="-parameters" />
       <module name="boot.mvc.thymeleaf" options="-parameters" />
+      <module name="boot.rest" options="-parameters" />
+      <module name="boot.security" options="-parameters" />
+      <module name="untitled" options="-parameters" />
     </option>
   </component>
 </project>

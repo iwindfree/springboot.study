@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-db-inmemory/boot-db-inmemory.iml" filepath="$PROJECT_DIR$/boot-db-inmemory/boot-db-inmemory.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot.basic/boot.basic.iml" filepath="$PROJECT_DIR$/boot.basic/boot.basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.cors/boot.cors.iml" filepath="$PROJECT_DIR$/boot.cors/boot.cors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.cors.client/boot.cors.client.iml" filepath="$PROJECT_DIR$/boot.cors.client/boot.cors.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.custom.security/boot.custom.security.iml" filepath="$PROJECT_DIR$/boot.custom.security/boot.custom.security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.db.h2/boot.db.h2.iml" filepath="$PROJECT_DIR$/boot.db.h2/boot.db.h2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.exception/boot.exception.iml" filepath="$PROJECT_DIR$/boot.exception/boot.exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.hateoas/boot.hateoas.iml" filepath="$PROJECT_DIR$/boot.hateoas/boot.hateoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.jpa/boot.jpa.iml" filepath="$PROJECT_DIR$/boot.jpa/boot.jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot.mvc/boot.mvc.iml" filepath="$PROJECT_DIR$/boot.mvc/boot.mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/boot.mvc.thymeleaf/boot.mvc.thymeleaf.iml" filepath="$PROJECT_DIR$/boot.mvc.thymeleaf/boot.mvc.thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.rest/boot.rest.iml" filepath="$PROJECT_DIR$/boot.rest/boot.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot.security/boot.security.iml" filepath="$PROJECT_DIR$/boot.security/boot.security.iml" />
     </modules>
   </component>
 </project>
